@@ -11,4 +11,10 @@ Abstract: *We introduce GaussianSpeech, a novel approach that synthesizes high-f
 
 <br>
 
+
+
+https://github.com/user-attachments/assets/cfb718c8-80c2-40e8-9599-f90c908d0bb8
+
+
+
 ### Source Code & Dataset Coming Soon!
